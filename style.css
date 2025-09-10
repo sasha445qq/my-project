@@ -1,3 +1,38 @@
-.head{
-color: black
+<head> 
+<link rel="stylesheet" href="style.css">
+</head>     
+body {
+    background-color: lightblue;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+h1 {
+    color: navy;
+    text-align: center;
+}
+img {
+    box-shadow: 2px 2px 5px color:black;
+    border-radius: 30%;
+    object-fit: cover;
+    
+    
+
+}
+a {
+    color: darkblue;
+    text-decoration: underline;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    object-fit: cover;
+    border-style: groove;
+}
+
+p {
+    border-style: outset; color: #000;
+    border-radius: 30%;
+    object-fit: cover;  
+  
 }
